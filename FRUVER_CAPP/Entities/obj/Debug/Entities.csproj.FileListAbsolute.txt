@@ -1,0 +1,20 @@
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\bin\Debug\Entities.dll
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\bin\Debug\Entities.pdb
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\obj\Debug\Entities.dll
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\Entities\obj\Debug\Entities.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\bin\Debug\Entities.dll
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\bin\Debug\Entities.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\obj\Debug\Entities.dll
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\Entities\obj\Debug\Entities.pdb
+D:\Documents\Sena\TiendaMrJ\Entities\bin\Debug\Entities.dll
+D:\Documents\Sena\TiendaMrJ\Entities\bin\Debug\Entities.pdb
+D:\Documents\Sena\TiendaMrJ\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Documents\Sena\TiendaMrJ\Entities\obj\Debug\Entities.dll
+D:\Documents\Sena\TiendaMrJ\Entities\obj\Debug\Entities.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\Entities\bin\Debug\Entities.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\Entities\bin\Debug\Entities.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\Entities\obj\Debug\Entities.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\Entities\obj\Debug\Entities.pdb

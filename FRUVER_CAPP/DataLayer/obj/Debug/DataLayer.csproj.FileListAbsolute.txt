@@ -1,0 +1,32 @@
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\DataLayer\obj\Debug\DataLayer.pdb
+D:\Documents\Sena\TiendaMrJ\DataLayer\bin\Debug\DataLayer.dll
+D:\Documents\Sena\TiendaMrJ\DataLayer\bin\Debug\DataLayer.pdb
+D:\Documents\Sena\TiendaMrJ\DataLayer\bin\Debug\Entities.dll
+D:\Documents\Sena\TiendaMrJ\DataLayer\bin\Debug\Entities.pdb
+D:\Documents\Sena\TiendaMrJ\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Documents\Sena\TiendaMrJ\DataLayer\obj\Debug\DataLayer.dll
+D:\Documents\Sena\TiendaMrJ\DataLayer\obj\Debug\DataLayer.pdb
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\DataLayer\obj\Debug\DataLayer.dll
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\DataLayer\obj\Debug\DataLayer.pdb
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\DataLayer\bin\Debug\DataLayer.dll
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\DataLayer\bin\Debug\DataLayer.pdb
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\DataLayer\bin\Debug\Entities.dll
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\DataLayer\bin\Debug\MySql.Data.dll
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\DataLayer\bin\Debug\Entities.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\DataLayer\bin\Debug\DataLayer.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\DataLayer\bin\Debug\DataLayer.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\DataLayer\bin\Debug\Entities.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\DataLayer\bin\Debug\MySql.Data.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\DataLayer\bin\Debug\Entities.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\DataLayer\obj\Debug\DataLayer.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\DataLayer\obj\Debug\DataLayer.pdb

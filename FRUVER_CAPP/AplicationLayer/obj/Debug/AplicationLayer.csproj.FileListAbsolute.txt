@@ -1,0 +1,92 @@
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.pdb
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.dll
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.pdb
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
+C:\Users\ADSI\Desktop\bio\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
+C:\Users\ADSI\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.pdb
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.dll
+C:\Users\ADSI luis\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.pdb
+D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
+D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
+D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe
+D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.pdb
+D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.dll
+D:\Desktop\TiendaBiofabrica\AplicationLayer\bin\Debug\Entities.pdb
+D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
+D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
+D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
+D:\Desktop\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+D:\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.exe
+D:\Documents\Visual Studio 2012\Projects\TiendaBiofabrica\AplicationLayer\obj\Debug\AplicationLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.exe
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\AplicationLayer.exe
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\AplicationLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\BusinessLayer.dll
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\Entities.dll
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\DataLayer.dll
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\BusinessLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\Entities.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\bin\Debug\DataLayer.pdb
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache
+D:\Documents\Sena\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.frmBuscarClientes.resources
+D:\Documents\Sena\Comprimidos\TiendaMrJ\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+D:\Documents\Sena\Comprimidos\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.exe
+D:\Documents\Sena\Comprimidos\TiendaMrJ\AplicationLayer\obj\Debug\AplicationLayer.pdb
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.exe
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.pdb
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\AplicationLayer.exe
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\AplicationLayer.pdb
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\BusinessLayer.dll
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\Entities.dll
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\DataLayer.dll
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\BusinessLayer.pdb
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\Entities.pdb
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\DataLayer.pdb
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\MySql.Data.dll
+D:\Documents\Sena\Comprimidos\FRUVER_CAPP\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\AplicationLayer.exe.config
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.exe
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\AplicationLayer.exe
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\AplicationLayer.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\BusinessLayer.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\Entities.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\DataLayer.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\MySql.Data.dll
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\BusinessLayer.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\Entities.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\bin\Debug\DataLayer.pdb
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.csprojResolveAssemblyReference.cache
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.frmClientes.resources
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.Properties.Resources.resources
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.csproj.GenerateResource.Cache
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.frmFactura.resources
+D:\Documentos_Kebin_Calderon\SENA\Instructor_Jesús_David_Calderón\2020\Instructivos\FRUVER_CAPP\AplicationLayer\obj\Debug\AplicationLayer.frmProductos.resources
